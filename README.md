@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<div align=center>
 <img src="logo.png" alt="logo" style="width:30%;">
-  <h1>DRandom</h1>
+<h1>DRandom</h1>
 <h3>(DaYe Random Number Generator)</h3>
 A purely mathematical random number generator
 </div>
